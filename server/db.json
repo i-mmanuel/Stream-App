@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "Stream number 1",
+      "description": "Does this count as a new stream?",
+      "id": 1
+    },
+    {
+      "title": "Testing refactor",
+      "description": "The stream better refactor",
+      "id": 2
+    },
+    {
+      "title": "Test stream",
+      "description": "Another test stream",
+      "userId": "102948723567741972757",
+      "id": 3
+    },
+    {
+      "title": "hi andrew",
+      "description": "hi!",
+      "userId": "102948723567741972757",
+      "id": 4
+    }
+  ]
+}
